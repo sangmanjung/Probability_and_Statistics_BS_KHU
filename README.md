@@ -9,4 +9,4 @@
 - DeGroot, M. H., & Schervish, M. J. (2012). Probability and statistics. Pearson Education.
   
 #### Contents
-- Statistics2 Homeworks #1 ~ #3.
+- Statistics2 Homeworks #1 ~ #3 (pdf files).
