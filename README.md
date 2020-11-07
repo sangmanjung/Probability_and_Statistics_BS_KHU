@@ -1,6 +1,6 @@
 ### Statistics_use_R_BS_KHU
   
-- Homeworks (with R programming) and the summarized lecture notes for statistics II (undergraduate school in KHU)
+- Homeworks (with R programming) and the summarized lecture notes for statistics II (undergraduate school of KHU)
 
 #### Instructor
 - Prof. Sunmi Lee
